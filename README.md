@@ -2,10 +2,11 @@
 
 Build [Benvie/JavaScriptNext.tmLanguage](https://github.com/Benvie/JavaScriptNext.tmLanguage) to tmBundle suitable for TextMate 2.
 
-## Usage
+[Download bundle](https://github.com/monai/JavaScriptNextBundle/releases) and double click to install.
 
-1. `$ build.sh`
-2. Double click to install.
+## Build
+
+`$ build.sh`
 
 ## License
 
